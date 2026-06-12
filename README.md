@@ -4,6 +4,8 @@ Projeto desenvolvido durante o curso **Java COMPLETO: Programação Orientada a 
 
 A aplicação foi construída utilizando **Java**, **JDBC**, **Maven** e **MySQL**, tendo como objetivo demonstrar a implementação do padrão **DAO (Data Access Object)** para o acesso e manipulação de dados em banco de dados relacionais.
 
+![image alt](https://github.com/Yamilucas/projeto_DAO_JBDC_curso_nelio/blob/main/DAO_1.jpg?raw=true)
+
 A conexão com o banco é gerenciada por meio do **Maven**, utilizando o driver JDBC do MySQL. As credenciais de acesso são configuradas no arquivo `db.properties`, enquanto a classe `DB.java` é responsável por estabelecer e gerenciar a conexão da aplicação com o banco de dados.
 
 O projeto possui duas interfaces DAO, responsáveis por definir operações específicas de **inserção**, **atualização**, **consulta** e **remoção** de dados para as entidades do sistema:
