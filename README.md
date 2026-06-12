@@ -13,6 +13,8 @@ O projeto possui duas interfaces DAO, responsáveis por definir operações espe
 * `Seller` (Vendedor);
 * `Department` (Departamento).
 
+  ![image alt](https://github.com/Yamilucas/projeto_DAO_JBDC_curso_nelio/blob/main/DAO_2.jpg?raw=true)
+
 As implementações dessas interfaces seguem boas práticas de programação, promovendo **baixo acoplamento**, **facilidade de manutenção** e **maior organização do código**.
 
 Para validação das funcionalidades desenvolvidas, foram criadas duas classes principais:
